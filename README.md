@@ -10,6 +10,8 @@ Module 15: Ansible
 <img width="632" alt="Capture d’écran 2023-02-07 à 20 57 10" src="https://user-images.githubusercontent.com/62488871/217952139-ba0dbc11-3a2d-4cf8-a165-46b0d2cc694c.png">
 <img width="666" alt="Capture d’écran 2023-02-07 à 21 12 50" src="https://user-images.githubusercontent.com/62488871/217952144-6d815f02-6078-4795-b735-561b38568a3c.png">
 
+-----
+
 # Project 2: Deploy nexus
 
 ![Capture d’écran 2023-02-09 à 21 02 12](https://user-images.githubusercontent.com/62488871/217952237-c966a240-b0a5-480f-98c2-c9f7fdc09a1e.png)
